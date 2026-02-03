@@ -54,7 +54,7 @@ export default function App() {
       await new Promise(resolve => setTimeout(resolve, 800));
       
       //const response = await fetch('http://localhost:3000/ask');
-      const response = await fetch('https://fiap-bff-5lib.onrender.com/ask');
+      const response = await fetch('http://52.4.148.215:3000/ask');
       
       if (!response.ok) {
         throw new Error(`Server returned status: ${response.status}`);

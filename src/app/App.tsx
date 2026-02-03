@@ -53,7 +53,7 @@ export default function App() {
       // Intentional delay to show loading state nicely
       await new Promise(resolve => setTimeout(resolve, 800));
       
-      //const response = await fetch('http://localhost:3000/ask');
+
       const response = await fetch('https://adrianorabello.com/ask');
       
       if (!response.ok) {

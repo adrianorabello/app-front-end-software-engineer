@@ -1,3 +1,17 @@
+
+# Integrantes do Grupo 
+| RM     | NOME                               | 
+| ------------- | -------------------         | 
+| RM362208      | Adriano Rabello             | 
+| RM365052      | Francielli Manchini Tateo   | 
+| RM364993      | Fábio Ivo Silva             | 
+| RM365124      | Renato Magri Trevine        | 
+| RM362550      | Rafael Gava Yokoyama        | 
+
+	
+
+	
+
 # Website para Estudo de Vocabulário
  
 Projeto front-end educacional para estudo e expansão de vocabulário em inglês. Consome uma API REST para exibir palavras, definições e exemplos de uso, com interface moderna, busca em tempo real e fallback para dados locais quando o serviço está indisponível. O foco está em boas práticas de arquitetura, organização de código, UX e preparação para deploy.

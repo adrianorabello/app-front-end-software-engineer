@@ -1,6 +1,6 @@
 
 # Integrantes do Grupo 
-| RM     | NOME                               | 
+| RM            | NOME                               | 
 | ------------- | -------------------         | 
 | RM362208      | Adriano Rabello             | 
 | RM365052      | Francielli Manchini Tateo   | 
@@ -255,34 +255,13 @@ O projeto é uma **SPA estática** (HTML + JS + CSS gerados por `vite build`). B
  
 ---
  
-## 9. Possíveis Melhorias Futuras
+
  
-- **Features**
- 
-  - Favoritar palavras e persistir em `localStorage` ou backend.
-  - Modo escuro (já existe suporte a temas com `next-themes` no stack).
-  - Filtros por nível (A1–C2) ou tags.
-  - Áudio (pronúncia) por palavra.
-  - PWA para uso offline com cache da API.
- 
-- **Refatorações**
- 
-  - Extrair a lógica de fetch para um hook `useVocabulary` ou camada de serviço.
-  - Configurar `VITE_API_URL` e usar `import.meta.env` para a URL da API.
-  - Adicionar testes (React Testing Library, Vitest) para componentes e fluxos principais.
- 
-- **Técnicas**
-  - Migrar para Next.js se precisar de SSR/SSG para SEO.
-  - Implementar cache (ex.: React Query/SWR) para a API de vocabulário.
-  - Adicionar CI (lint, type-check, build) e preview de deploy em PRs.
- 
----
- 
-## 10. Licença
+## 9. Licença
  
 Este projeto é de **cunho educacional**. O design original está disponível no Figma: [Website para estudo de vocabulário](https://www.figma.com/design/mEoqNLk6ok9IrxPzxOfsd7/Website-para-estudo-de-vocabul%C3%A1rio). Consulte `ATTRIBUTIONS.md` para créditos e licenças de recursos utilizados. Não há licença aberta formal; use como referência de estudo.
 
-## 11. Métricas 
+## 10. Métricas 
 
 ## 📄 Relatório em PDF
 

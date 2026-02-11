@@ -1,6 +1,6 @@
 
 # Integrantes do Grupo 
-| RM            | NOME                               | 
+| RM            | NOME                        | 
 | ------------- | -------------------         | 
 | RM362208      | Adriano Rabello             | 
 | RM365052      | Francielli Manchini Tateo   | 
@@ -257,7 +257,7 @@ O projeto é uma **SPA estática** (HTML + JS + CSS gerados por `vite build`). B
  
 
  
-## 9. Licença
+## 9. Figma utilizada no projeto
  
 Este projeto é de **cunho educacional**. O design original está disponível no Figma: [Website para estudo de vocabulário](https://www.figma.com/design/mEoqNLk6ok9IrxPzxOfsd7/Website-para-estudo-de-vocabul%C3%A1rio). Consulte `ATTRIBUTIONS.md` para créditos e licenças de recursos utilizados. Não há licença aberta formal; use como referência de estudo.
 
